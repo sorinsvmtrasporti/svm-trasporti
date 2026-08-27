@@ -20,7 +20,7 @@ Error generating stack: `+i.message+`
 Telefono: ${n.telefono}
 
 Messaggio:
-${n.messaggio}`,h=`mailto:sorin@svmtrasporti.it?subject=${encodeURIComponent(s)}&body=${encodeURIComponent(m)}`;window.location.href=h,i("Bozza email pronta nel tuo client di posta.")},a=async()=>{let s=`Richiesta per SVM Trasporti
+${n.messaggio}`,h=`mailto:sorin.svmtrasporti@gmail.com?subject=${encodeURIComponent(s)}&body=${encodeURIComponent(m)}`;window.location.href=h,i("Bozza email pronta nel tuo client di posta.")},a=async()=>{let s=`Richiesta per SVM Trasporti
 Nome: ${n.nome}
 Telefono: ${n.telefono}
 Messaggio: ${n.messaggio}`;try{await navigator.clipboard.writeText(s),i("Testo copiato. Incollalo su WhatsApp o email.")}catch{i(s)}};return g("div",{className:"min-h-screen bg-[#0a0a0a] text-white selection:bg-[#D4A853]/30 selection:text-white antialiased",children:[p("style",{children:`
