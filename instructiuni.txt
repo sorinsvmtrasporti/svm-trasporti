@@ -1,0 +1,55 @@
+
+# SVM TRASPORTI - PACHET COMPLET SITE + EMAIL
+
+## Ce ai in folder:
+- index.html = SITE-UL TAU complet, gata de urcat
+- imaginile = cartile tale de vizita si story
+
+## EMAILURILE TALE:
+- sorin@svmtrasporti.it (principal)
+- info@svmtrasporti.it (secundar)
+- Ambele redirectioneaza catre WhatsApp si telefonul tau 3289865318
+
+## CUM PUI SITE-UL ONLINE (10 minute):
+
+### Varianta 1 - GRATUITA (recomandata pentru inceput):
+1. Intra pe https://www.netlify.com -> Sign Up gratuit
+2. Click "Add new site" -> "Deploy manually"
+3. Trage fisierul index.html acolo
+4. Gata! Ai link gen: https://svm-trasporti.netlify.app
+5. Poti pune link-ul asta pe cartile de vizita pana cumperi domeniu
+
+### Varianta 2 - CU DOMENIUL TAU www.svmtrasporti.it (15€/an):
+1. Cumpara domeniu de pe https://www.register.it sau https://www.aruba.it
+   Cauta: svmtrasporti.it (15€/an)
+2. Cumpara hosting: Aruba Hosting Linux 35€/an
+3. In panoul Aruba, urca index.html in folderul public_html
+4. Gata, site-ul tau e pe www.svmtrasporti.it
+
+## CUM FACI EMAILUL SA FUNCTIONEZE PE BUNE:
+
+Cand cumperi domeniul de pe Aruba/Register.it, automat primesti casute email:
+1. In panoul de control Aruba -> Email -> Crea casella
+2. Creeaza: sorin@svmtrasporti.it cu parola ta
+3. Configureaza pe telefon:
+   - iPhone: Setari -> Mail -> Adauga cont -> Altul
+   - Android: Gmail -> Adauga cont -> Altul
+4. Server IMAP: imap.aruba.it / SMTP: smtp.aruba.it
+
+Dupa asta, cand cineva iti scrie pe sorin@svmtrasporti.it, primesti direct pe telefon!
+
+## QR CODE:
+QR-ul de pe carti duce la https://wa.me/393289865318
+Testeaza-l cu camera telefonului!
+
+## CONTACT RAPID PENTRU CLIENTI:
+- Tel/WhatsApp: 328 986 5318 (CLICK-TO-CALL pe site)
+- Email: sorin@svmtrasporti.it
+- Zona: Cairo Montenotte e tutta l'Italia
+
+## URMATORII PASI:
+1. Azi: Pune site-ul pe Netlify gratuit (2 min)
+2. Maine: Lasa cartile la bar cu noul site
+3. Saptamana viitoare: Cumpara domeniul svmtrasporti.it
+
+Bafta Sorin! SVM TRASPORTI e acum firma reala!
